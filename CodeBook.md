@@ -18,8 +18,11 @@ All variables are the mean of a measurement for each subject and activity. This 
 
 * Time domain body acceleration mean along X, Y, and Z:
 MeanTimeBodyAccMeanX
+
 MeanTimeBodyAccMeanY
+
 MeanTimeBodyAccMeanZ
+
 
 * Time domain body acceleration standard deviation along X, Y, and Z:
 MeanTimeBodyAccStdDevX
