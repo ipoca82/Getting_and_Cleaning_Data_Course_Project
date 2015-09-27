@@ -4,14 +4,14 @@
 
 These variables identify the unique subject/activity pair the variables relate to:
 
- - Subject: the integer subject ID.
+ - Subject: subject ID (integer).
  - Activity: the string activity name:
-  - Walking
-  - Walking Upstairs
-  - Walking Downstairs
-  - Sitting
-  - Standing
-  - Laying
+  - WALKING
+  - WALKING UPSTAIRS
+  - WALKING DOWNSTAIRS
+  - SITTING
+  - STANDING
+  - LAYING
 
 ## Measurement Means
 
